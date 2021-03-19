@@ -1,0 +1,9 @@
+p {
+  color: blue;
+}
+
+/* to test view encapsulation
+label {
+  color: darkolivegreen;
+}
+ */
